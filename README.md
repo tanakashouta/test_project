@@ -1,2 +1,2 @@
-# test_project
-test
+# Django はじめてやってみた
+
